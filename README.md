@@ -1,0 +1,1 @@
+These are data attained in the four experiments for the manuscript, "Confidence for intrusion errors during the attentional blink depends on target-defining features" submitted to the journal Consciousness and Cognition.
